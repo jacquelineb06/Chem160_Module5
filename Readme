@@ -1,0 +1,16 @@
+Module 5 files
+The respository should start out containing the following files (these will be edited by you during module):
+orbit.py
+drawtraj.py
+mdfunctions.py
+simpleMD.py
+MDSS.py
+
+Before uploading the completed module to your GitHub account, it should contain the following additional (or completed) files:
+integral.py
+ave3.py
+dist.py
+pendulum.py
+orbit.py
+mdfunctions.py
+simpleMD.py
